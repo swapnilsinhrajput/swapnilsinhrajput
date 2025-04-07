@@ -4,12 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-From the halls of middle school to the realms of professional expertise, I've been a devoted full-stack developer and cybersecurity aficionado. My journey began with a deep-seated love for computers, evolving into a passion for programming and cybersecurity, shaping me into the ultimate cyber geek. With roots firmly planted in my early years, my professional prowess now shines as a testament to my lifelong dedication to mastering the digital domain.
+🚀 Software Developer | Cybersecurity Enthusiast | AI Explorer
+
+From writing my first lines of code in middle school to building secure, scalable applications today, I've evolved into a full-stack developer with a love for clean code, intelligent systems, and infinite possibilities. Proficient in Java, JavaScript, SQL, Python, and C#, I specialize in secure software design, backend systems, and AI-driven automation. I thrive on solving complex problems, optimizing performance, and contributing to meaningful, long-lasting tech.
+
+Let’s build the future—securely, intelligently, infinitely.
 
 * 🌍  I'm based in Winnipeg
 * 🖥️  See my portfolio at [MyPortfolio](http://octaners.com)
 * ✉️  You can contact me at [swapnil0512rajput@gmail.com](mailto:swapnil0512rajput@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm learning Python Automation
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Aiden Pearce, don't tell anyone.
 
