@@ -17,7 +17,7 @@ From writing my first lines of code in middle school to building secure, scalabl
 * 🌍 I'm based in Winnipeg
 * 🎓 Applied Computer Science Graduate
 * 🖥️ See my portfolio at [MyPortfolio](http://octaners.com)
-* ✉️ You can contact me at [swapnil0512rajput@gmail.com](mailto:swapnil0512rajput@gmail.com)
+* ✉️ You can contact me at [swapnil0512rajput[at]gmail[dot]com](mailto:swapnil0512rajput@gmail.com)
 * 🧠 I'm learning and improving every day!
 * 🤝 I'm open to collaborating on Projects
 
@@ -25,11 +25,40 @@ From writing my first lines of code in middle school to building secure, scalabl
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql) ![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)
+**🧠 Languages:**  
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-%2300BCF2.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=dotnet) ![MudBlazor](https://img.shields.io/badge/MudBlazor-darkblue?style=flat&logo=blazor) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql) ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+**⚙️ Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/MudBlazor-%230E74BD.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
+
+**☁️ Cloud & DevOps:**  
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-%232C3E50.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+**🗄️ Databases:**  
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+**🔧 Tools & Platforms:**  
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### 🧠 Projects of Interest
 
@@ -52,9 +81,21 @@ From writing my first lines of code in middle school to building secure, scalabl
 
 ---
 ### Badges
+<p align="center">
+    <img src="https://img.shields.io/badge/OSINT%20Operator-Active-911f6f?style=for-the-badge&logo=protonmail" />
+    <img src="https://img.shields.io/badge/Burp%20Suite%20Ready-orange?style=for-the-badge&logo=burpsuite" />
+    <img src="https://img.shields.io/badge/Recon%20Time-Infinite-critical?style=for-the-badge&logo=hackthebox" />
+    <img src="https://img.shields.io/badge/VS%20Code%20Ninja-blue?style=for-the-badge&logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Warrior-orange?style=for-the-badge&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/Secure%20Design-Analyst-lightgrey?style=for-the-badge&logo=veracrypt" />
+    <img src="https://img.shields.io/badge/∞-Infinity%20Driven-black?style=for-the-badge" />
+</p>
 
 <b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://github.com/swapnilsinhrajput/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <a href="http://www.github.com/swapnilsinhrajput"><img src="https://github-readme-stats.vercel.app/api?username=swapnilsinhrajput&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="swapnilsinhrajput's GitHub stats" /></a>
-
 <a href="http://www.github.com/swapnilsinhrajput"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilsinhrajput&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
