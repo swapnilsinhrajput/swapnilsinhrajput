@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">🚀 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | 🔐 Cybersecurity Learner | 🤖 AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+secure+apps+for+infinite+scale;Driven+by+code%2C+logic+and+vision;Always+learning+Always+building!&center=true&width=500&height=45">
@@ -46,7 +46,6 @@ From writing my first lines of code in middle school to building secure, scalabl
 <img src="https://img.shields.io/badge/CI%2FCD-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 **🗄️ Databases:**  
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
@@ -60,8 +59,7 @@ From writing my first lines of code in middle school to building secure, scalabl
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
-### 🧠 Projects of Interest
-
+### 🧠 Projects I would like to build someday:
 - 🔐 Secure authentication systems
 - ☁️ Serverless AWS-hosted apps
 - 🧬 AI automation tools
