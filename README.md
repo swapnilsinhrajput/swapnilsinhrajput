@@ -37,11 +37,12 @@ From writing my first lines of code in middle school to building secure, scalabl
 <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MudBlazor-%230E74BD.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
 
 **☁️ Cloud & DevOps:**  
-<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-%232C3E50.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -58,13 +59,6 @@ From writing my first lines of code in middle school to building secure, scalabl
   <img src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-
-### 🧠 Projects I would like to build someday:
-- 🔐 Secure authentication systems
-- ☁️ Serverless AWS-hosted apps
-- 🧬 AI automation tools
-- 📊 Custom dashboards with real-time data
-- 🌐 Static & dynamic full-stack apps
 
 ---
 ### Socials
